@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class GameManager : MonoBehaviour
 {
+    int Kezdopenz = 1000;
+    int Minimumtet = 100;
     [SerializeField]
     Rigidbody2D negyzet;
     [SerializeField]
@@ -26,5 +28,13 @@ public class GameManager : MonoBehaviour
         {
             Destroy(gameObject);
         }
+    }
+    public int GetKezdoPenz()
+    {
+        return Kezdopenz;
+    }
+    public int GetMinimumTet()
+    {
+        return Minimumtet;
     }
 }
