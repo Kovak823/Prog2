@@ -1,12 +1,12 @@
 # **BlackJack**
 
-===================================================================================
+===========================================================================
 ## **Leírás:**
 
 2D-s felülnézetes kártyajáték. Lényege, hogy minél több ```petákot``` szerezz a játékban.
 
 
-===================================================================================
+===========================================================================
 
 ## **Szabályok:**
 
@@ -22,7 +22,7 @@
 	- Az osztó szintén rendelkezik egy elkerített zónával, ahova a lapjait helyezi, illetve egy paklitartót, ami egy pakli kártyát tartalmaz. A paklitartó egy olyan tartó, ami tartalmazhat automatizált keverőt is, hogy véletlenszerűen adja ki a kártyákat, mikor az osztó kiosztja azokat. 
 
 
-===================================================================================
+===========================================================================
 
 ## **Játékmenet:**
 
@@ -37,7 +37,7 @@
 * Split:
 	- A Split, vagyis kettéosztás egy kézből kettőt csinál, így növelve a nyerési esélyeket. Ez abban az esetben valósul meg, ha a kezdőlapok azonos értékűek, ilyenkor lehet kettéosztani őket. Kezenként kizárólag egy Split lehetséges. Ilyenkor a játékos dönthet a pár megosztása mellett is, ilyenkor az esetben mindkét kézre a fő téttel megegyező külön tét vonatkozik. Miután mindkét kezéhez kapott második lapot, növelheti a kezek értékét, ha lapot kér. Ha elégedett a két keze értékével, megállhat.
 
-===================================================================================
+===========================================================================
 
 ## **Eredmények:**
 
